@@ -1,0 +1,59 @@
+# AI Engineer Cookbook
+
+A practical guide to building AI systems with real-world examples and ready-to-use code snippets. Learn by doing, not just reading.
+
+## Why This Cookbook?
+
+While there's no shortage of AI theory and articles, finding practical, hands-on examples can be challenging. This cookbook bridges that gap by providing:
+
+- Step-by-step tutorials you can follow along with
+- Production-ready code snippets you can copy and paste
+- Real-world examples that demonstrate practical AI implementation
+- A learning journey that grows with you as you build
+
+## What You'll Find Here (In-progress)
+
+- [MCP](./mcp/)
+    - [Crash Course](./mcp/crash-course/README.md)
+        - [Weather MCP](./mcp/crash-course/weather-mcp/README.md)
+
+## About the Author
+
+Hi! I'm Frazer, an AI Engineer and founder of Variable X. </br>
+
+We specialize in:
+- AI prototyping and development
+- Scaling AI solutions
+- Organization-wide AI adoption
+- Developer training and support
+
+My mission is to share practical knowledge about building real-world AI systems. Whether you're just starting with AI or looking to enhance your existing projects, I'm here to help you succeed.
+
+## Connect and Learn More
+
+Stay updated with the latest in AI development:
+
+- [LinkedIn](https://www.linkedin.com/in/frazer-dourado/) - Follow for AI trends and practical implementations
+- [X (Twitter)](https://x.com/FrazerDourado) - Quick insights and updates
+- [Blog](http://frazerdourado.com/blog) - Deep dives into AI topics
+- [Services](https://frazerdourado.com/services) - Need expert help? Let's work together on your AI project
+
+## Contributing
+
+Found a bug or have a suggestion? Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is dual-licensed:
+
+- **Code**: [Apache License 2.0](./LICENSE-CODE) - See the [LICENSE-CODE](./LICENSE-CODE) file for details
+- **Documentation**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) - See the [LICENSE-DOCS](./LICENSE-DOCS) file for details
+
+### What this means:
+
+- You can freely use, modify, and distribute the code under the Apache 2.0 License
+- You are granted patent rights from contributors
+- You must include a copy of the license and state significant changes
+- You can share and adapt the documentation for non-commercial purposes
+- You must give appropriate credit to the original author
+- If you remix, transform, or build upon the documentation, you must distribute your contributions under the same license
