@@ -1,3 +1,7 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 # AI Engineer Cookbook
 
 A practical guide to building AI systems with real-world examples and ready-to-use code snippets. Learn by doing, not just reading.
@@ -46,8 +50,8 @@ Found a bug or have a suggestion? Contributions are welcome! Feel free to open a
 
 This project is dual-licensed:
 
-- **Code**: [Apache License 2.0](./LICENSE-CODE) - See the [LICENSE-CODE](./LICENSE-CODE) file for details
-- **Documentation**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) - See the [LICENSE-DOCS](./LICENSE-DOCS) file for details
+- **Code**: [Apache License 2.0](./LICENSE-CODE)
+- **Documentation**: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](./LICENSE-DOCS)
 
 ### What this means:
 
