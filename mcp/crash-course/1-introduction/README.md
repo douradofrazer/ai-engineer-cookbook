@@ -16,6 +16,8 @@ The Model Context Protocol (MCP) is a powerful protocol that enables developers 
 
 > "MCP is described as the “USB-C for AI applications.” 
 
+## Next Steps
+
 Now, with the definition out of the way. Let's dive deeper into the core concepts and components that make MCP work.
 
 </br>
