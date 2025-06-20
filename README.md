@@ -64,7 +64,6 @@ This project is dual-licensed:
 ### What this means:
 
 - You can freely use, modify, and distribute the code under the Apache 2.0 License
-- You are granted patent rights from contributors
 - You must include a copy of the license and state significant changes
 - You can share and adapt the documentation for non-commercial purposes
 - You must give appropriate credit to the original author
