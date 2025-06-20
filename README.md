@@ -44,7 +44,15 @@ Stay updated with the latest in AI development:
 
 ## Contributing
 
-Found a bug or have a suggestion? Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are very welcome – whether it’s reporting a bug, suggesting an improvement, updating documentation, or submitting code.
+
+Ways to contribute:
+- Report bugs by opening an issue
+- Suggest features or improvements
+- Improve documentation
+- Submit a pull request for a fix or enhancement
+
+No contribution is too small – even a typo fix helps! If you’re new to open source, this is a great place to start. Questions are always welcome.
 
 ## License
 
