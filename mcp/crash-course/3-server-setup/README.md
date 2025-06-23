@@ -71,7 +71,6 @@ Watch this quick demo of the MCP Inspector in action to see how to test your wea
 
 <video width="80%" controls>
   <source src="mcp-inspector-tools-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ### Installing the Server
@@ -87,9 +86,8 @@ uv run mcp install server.py --name "Weather MCP"
 
 After installing the server, you should see the Weather MCP tools available in Claude Desktop:
 
-<video width="50%" controls>
+<video width="80%" controls>
   <source src="claude-mcp-tools-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 </br>
