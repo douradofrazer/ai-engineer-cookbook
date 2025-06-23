@@ -8,8 +8,6 @@ This hands-on crash course will teach you how to connect AI models with external
 > - Claude Desktop app (Get it [here](https://claude.ai/download))
 > - Python 3.8 or newer
 > - `uv` package manager (Get it [here](https://docs.astral.sh/uv/getting-started/installation/))
-> </br> </br>
-
 
 
 ## Table of Contents
@@ -43,8 +41,9 @@ This course is designed for Python developers who want to:
 
 Resources for further reading:
 
-- [Model Context Protocol documentation](https://modelcontextprotocol.io)
-- [Model Context Protocol specification](https://spec.modelcontextprotocol.io)
+- [Model Context Protocol Overview](https://frazerdourado.com/blog/model-context-protocol-overview)
+- [Model Context Protocol Documentation](https://modelcontextprotocol.io)
+- [Model Context Protocol Specification](https://spec.modelcontextprotocol.io)
 - [MCP Core Architecture](https://modelcontextprotocol.io/docs/concepts/architecture)
-- [Officially supported servers](https://github.com/modelcontextprotocol/servers)
-- [Python SDK GitHub repository](https://github.com/modelcontextprotocol/python-sdk)
+- [Officially Supported Servers](https://github.com/modelcontextprotocol/servers)
+- [Python SDK GitHub Repository](https://github.com/modelcontextprotocol/python-sdk)
